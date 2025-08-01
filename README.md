@@ -1,4 +1,4 @@
-# Vitesse theme for Astro
+# Vitesse theme for Astro (about to be FredworkLemmas)
 
 A minimal, SEO-friendly portfolio and blog theme for Astro, supports Vue and UnoCSS.
 
