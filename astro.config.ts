@@ -6,7 +6,7 @@ import UnoCSS from 'unocss/astro'
 
 export default defineConfig({
   site: 'https://fredworklemmas.github.io/',
-  base: 'FredworkLemmas',
+  // base: 'FredworkLemmas',
   server: {
     port: 1977,
   },
