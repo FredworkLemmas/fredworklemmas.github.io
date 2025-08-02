@@ -51,10 +51,10 @@ export const siteConfig = {
         text: 'Notes',
         href: '/blog/notes',
       },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
-      },
+      // {
+      //   text: 'Talks',
+      //   href: '/blog/talks',
+      // },
       {
         text: 'Projects',
         href: '/projects',
@@ -71,30 +71,30 @@ export const siteConfig = {
         text: 'Notes',
         href: '/blog/notes',
       },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
-      },
+      // {
+      //   text: 'Talks',
+      //   href: '/blog/talks',
+      // },
     ],
   },
   footer: {
     navLinks: [
-      {
-        text: 'Posts Props',
-        href: '/posts-props',
-      },
-      {
-        text: 'Markdown Style',
-        href: '/md-style',
-      },
-      {
-        text: 'View on Astro',
-        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
-      },
-      {
-        text: 'GitHub Repository',
-        href: 'https://github.com/kieranwv/astro-theme-vitesse',
-      },
+      // {
+      //   text: 'Posts Props',
+      //   href: '/posts-props',
+      // },
+      // {
+      //   text: 'Markdown Style',
+      //   href: '/md-style',
+      // },
+      // {
+      //   text: 'View on Astro',
+      //   href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
+      // },
+      // {
+      //   text: 'GitHub Repository',
+      //   href: 'https://github.com/kieranwv/astro-theme-vitesse',
+      // },
     ],
   },
 }
