@@ -4,7 +4,7 @@ export const siteConfig = {
   subtitle: 'A journal of discovery, Fred-style.',
   description: 'Did you just see Fred running down the street, naked and hollering Eureka!? You might figure out what that was all about on this very site.',
   image: {
-    src: '/hero.jpg',
+    src: '/big_top_tent__sm_trans.png',
     alt: 'Website Main Image',
   },
   email: 'fred@frameworklabs.us',
@@ -39,7 +39,7 @@ export const siteConfig = {
   ],
   header: {
     logo: {
-      src: '/favicon.svg',
+      src: '/big_top_tent__sm_trans.png',
       alt: 'Logo Image',
     },
     navLinks: [
