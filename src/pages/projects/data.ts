@@ -10,6 +10,12 @@ export const projectData: ProjectData = [
         icon: 'i-carbon-ai-label',
         href: 'https://cartuine.com',
       },
+      {
+        text: 'Invocate',
+        description: 'Invoke tasks with simpler namespacing.',
+        icon: 'i-carbon-tool-kit',
+        href: 'https://github.com/FredworkLemmas/invocate',
+      },
     ],
   },
   {

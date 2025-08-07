@@ -58,6 +58,7 @@ export default defineConfig({
     'i-carbon-open-panel-bottom',
     'i-carbon-settings-edit',
     'i-carbon-data-class',
+    'i-carbon-tool-kit',
     'i-simple-icons-github',
     'i-simple-icons-x',
     'i-simple-icons-linkedin',
