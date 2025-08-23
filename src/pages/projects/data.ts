@@ -6,7 +6,7 @@ export const projectData: ProjectData = [
     projects: [
       {
         text: 'Cartuine',
-        description: 'Build and share assistants.',
+        description: 'A marketplace for curated expert assistants.',
         icon: 'i-carbon-ai-label',
         href: 'https://cartuine.com',
       },
@@ -14,6 +14,12 @@ export const projectData: ProjectData = [
         text: 'Invocate',
         description: 'Invoke tasks with simpler namespacing.',
         icon: 'i-carbon-tool-kit',
+        href: 'https://github.com/FredworkLemmas/invocate',
+      },
+      {
+        text: 'Demo: PgVector',
+        description: 'POC for using PostgreSQL as a vector database.',
+        icon: 'i-carbon-ai-label',
         href: 'https://github.com/FredworkLemmas/invocate',
       },
     ],
