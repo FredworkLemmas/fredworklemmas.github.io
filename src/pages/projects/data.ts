@@ -20,7 +20,7 @@ export const projectData: ProjectData = [
         text: 'Demo: PgVector',
         description: 'POC for using PostgreSQL as a vector database.',
         icon: 'i-carbon-ai-label',
-        href: 'https://github.com/FredworkLemmas/invocate',
+        href: 'https://github.com/FredworkLemmas/demo_pgvector',
       },
     ],
   },
