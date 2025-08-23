@@ -43,10 +43,10 @@ export const siteConfig = {
       alt: 'Logo Image',
     },
     navLinks: [
-      {
-        text: 'Blog',
-        href: '/blog',
-      },
+      // {
+      //   text: 'Blog',
+      //   href: '/blog',
+      // },
       {
         text: 'Notes',
         href: '/blog/notes',
