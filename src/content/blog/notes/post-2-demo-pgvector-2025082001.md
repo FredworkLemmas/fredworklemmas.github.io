@@ -5,7 +5,9 @@ date: 2025-08-20
 ---
 
 # Terra firma: playing at scale
-## My last demo was impressive, but pitiable
+![](images/cat_creepin_outside_window2.jpg "Foxy (the cat) creepin' outside my office window")
+
+## My last demo was impressive, but pitiable in a lot of ways
 For the past year or so, I've been thinking about how People can benefit from
 LLMs and I've been noodling out a design for sharing context in an interesting
 way with friends, coworkers, and customers, but I've hardly touched any code
@@ -70,6 +72,12 @@ where all the moving parts were in place and working and the future is bright:
   surpisingly capable but smallish model, and some solid caching options with
   vLLM, it looks like reliable performance on modest hardware is indeed
   possible.
+
+## What's next?
+* There's a lot to be done in the context department - searching chunks is cool
+  but it's a subset of what a real-world use case will need.
+* It seems like there are some good ways to integrate MCP capabilities.
+* I'd like to see bigger models and multi-modal I/O.
 
 &nbsp;
 # Additional Notes
