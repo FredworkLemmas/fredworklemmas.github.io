@@ -5,12 +5,6 @@ export const projectData: ProjectData = [
     title: 'Current Projects',
     projects: [
       {
-        text: 'Cartuine',
-        description: 'A marketplace for curated expert assistants.',
-        icon: 'i-carbon-ai-label',
-        href: 'https://cartuine.com',
-      },
-      {
         text: 'Invocate',
         description: 'Invoke tasks with simpler namespacing.',
         icon: 'i-carbon-tool-kit',
