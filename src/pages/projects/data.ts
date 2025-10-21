@@ -16,6 +16,19 @@ export const projectData: ProjectData = [
         icon: 'i-carbon-ai-label',
         href: 'https://github.com/FredworkLemmas/demo_pgvector',
       },
+      {
+        text: 'KWin Script: Window Gaps (Plasma 6)',
+        description: 'Adds space around windows touching a screen edge or other window.',
+        icon: 'i-carbon-virtual-column',
+        href: 'https://github.com/FredworkLemmas/kwin-tile-gaps',
+      },
+      {
+        text: 'SuperPaper (Plasma 6)',
+        description: 'An advanced multi monitor wallpaper manager (Plasma 6).',
+        icon: 'i-carbon-image',
+        href: 'https://github.com/FredworkLemmas/superpaper-plasma6',
+      },
+
     ],
   },
   {
