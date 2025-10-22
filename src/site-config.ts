@@ -63,10 +63,10 @@ export const siteConfig = {
   },
   page: {
     blogLinks: [
-      {
-        text: 'Blog',
-        href: '/blog',
-      },
+      // {
+      //   text: 'Blog',
+      //   href: '/blog',
+      // },
       {
         text: 'Notes',
         href: '/blog/notes',
