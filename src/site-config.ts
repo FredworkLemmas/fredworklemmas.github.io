@@ -1,8 +1,8 @@
 export const siteConfig = {
   author: 'Fred McDavid',
-  title: 'Fred McDavid, the man, the projects, and the scribblings.',
-  subtitle: 'A journal of discovery, Fred-style.',
-  description: 'Did you just see Fred running down the street, naked and hollering Eureka!? You might figure out what that was all about on this very site.',
+  title: 'Fred McDavid: projects and scribblings.',
+  subtitle: 'A journal of discovery.',
+  description: 'Posts, projects, photos.',
   image: {
     src: '/big_top_tent__sm_trans.png',
     alt: 'Website Main Image',
