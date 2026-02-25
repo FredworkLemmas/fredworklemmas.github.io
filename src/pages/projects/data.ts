@@ -5,6 +5,18 @@ export const projectData: ProjectData = [
     title: 'Current Projects',
     projects: [
       {
+        text: 'Ozwald',
+        description: 'Ozwald is a provisioner for container-based systems, with a focus on functionality that is useful for running AI-related software in heterogenous hardware environments.',
+        icon: 'i-carbon-ai-label',
+        href: 'https://github.com/FredworkLemmas/ozwald',
+      },
+      {
+        text: 'KWin Script: Interstitia (Plasma 6)',
+        description: 'Adds space around and between windows and adds in-tile cascading.',
+        icon: 'i-carbon-virtual-column',
+        href: 'https://github.com/FredworkLemmas/interstitia',
+      },
+      {
         text: 'Invocate',
         description: 'Invoke tasks with simpler namespacing.',
         icon: 'i-carbon-tool-kit',
@@ -15,12 +27,6 @@ export const projectData: ProjectData = [
         description: 'POC for using PostgreSQL as a vector database.',
         icon: 'i-carbon-ai-label',
         href: 'https://github.com/FredworkLemmas/demo_pgvector',
-      },
-      {
-        text: 'KWin Script: Window Gaps (Plasma 6)',
-        description: 'Adds space around windows touching a screen edge or other window.',
-        icon: 'i-carbon-virtual-column',
-        href: 'https://github.com/FredworkLemmas/kwin-tile-gaps',
       },
       {
         text: 'SuperPaper (Plasma 6)',
